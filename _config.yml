@@ -1,0 +1,28 @@
+name: Margie Montserrat Sheehan
+favicon: null
+layout_spectrum: 0.584791466826573
+typography_spectrum: 0.5939457931090146
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7747669031377882
+  lightness: 0.1766189846675843
+  saturation: 0.40536413760855794
+  rhythmicContrast: 0.504253639606759
+purpose: []
